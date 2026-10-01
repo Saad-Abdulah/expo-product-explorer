@@ -37,6 +37,9 @@ export default function HomeScreen() {
           <ThemedText type="title" style={styles.title}>
             Welcome to&nbsp;Expo
           </ThemedText>
+          <ThemedText style={{ marginTop: 10, fontSize: 18, fontWeight: 'bold' }}>
+            Saad Abdullah - 23i-3045
+          </ThemedText>
         </ThemedView>
 
         <ThemedText type="code" style={styles.code}>
